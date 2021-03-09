@@ -1,15 +1,15 @@
-:+1: <b>Favorite Things</b> :+1:
-- Books
+## :+1: _**Favorite Things**_ :+1:
+### - **Books**
   * Worthing Saga
   * Catcher in the Rye
   * Harry Potter
-- Movies/Shows
+### - **Movies/Shows**
   * Boondock Saints
   * Doctor Who
   * Rick and Morty
-- Activities
+### - **Activities**
   * Hiking
   * Building
   * Coding
-- Food
+### - **Food**
   * Sushi🍣🍣🍣
