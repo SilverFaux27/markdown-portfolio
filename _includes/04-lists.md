@@ -1,1 +1,15 @@
-Replace this with a list of your favorite things.
+:+1: <b>Favorite Things</b> :+1:
+- Books
+  * Worthing Saga
+  * Catcher in the Rye
+  * Harry Potter
+- Movies/Shows
+  * Boondock Saints
+  * Doctor Who
+  * Rick and Morty
+- Activities
+  * Hiking
+  * Building
+  * Coding
+- Food
+  * Sushi🍣🍣🍣
